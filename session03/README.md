@@ -22,4 +22,4 @@
 ## تمرین‌های پیشرفته
 1. تابعی بنویسید که n عدد از کاربر بگیرد و میانگین و واریانس آن را حساب کند.
 
-![Variance Formula](https://images.deepai.org/glossary-terms/variance-6302132.jpg)
+![Variance Formula](./variance.jpg)
